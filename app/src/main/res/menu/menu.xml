@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--menu for option menu-->
+    <item android:id="@+id/New"
+        android:title="New tab" />
+    <item android:id="@+id/New_inco"
+        android:title="New incognito tab" />
+    <item android:id="@+id/Book"
+        android:title="Bookmarks" />
+    <item android:id="@+id/Resent"
+        android:title="Resent tab" />
+    <item android:id="@+id/History"
+        android:title="History" />
+    <item android:id="@+id/Download"
+        android:title="Download" />
+    <item android:id="@+id/Setting"
+        android:title="Setting" />
+    <item android:id="@+id/Help"
+        android:title="Help and Feedback" />
+</menu>
